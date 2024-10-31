@@ -87,10 +87,10 @@ draw_filled_ellipse(-0.3, 1.25, math.sqrt(0.0225), math.sqrt(0.0625))
 #右眼白
 draw_filled_ellipse(0.3, 1.25, math.sqrt(0.0225), math.sqrt(0.0625))
 
-#左黑珠
+#左眼球
 draw_filled_circle(-0.22, 1.25, math.sqrt(0.0036), fill_color="black")
 
-#右黑珠
+#右眼球
 draw_filled_circle(0.38, 1.25, math.sqrt(0.0036), fill_color="black")
 
 #嘴巴
